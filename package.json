@@ -1,0 +1,21 @@
+{
+  "name": "files-downloader",
+  "version": "1.0.0",
+  "description": "Project to download files using URL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@pgithub.com:pyshivam/file-downloader.git"
+  },
+  "keywords": [
+    "nodejs",
+    "file",
+    "downloader",
+    "url"
+  ],
+  "author": "Shivam Gupta",
+  "license": "ISC"
+}
